@@ -1,0 +1,24 @@
+git init - Ele inicializa o repositório com o GIT. E como se estivesse dizendo que esse 
+diretório terá um controle de versão.
+
+git clone <URL> - Clona o repositório remoto.
+
+git remote add origin <URL> - Conecta o repositório local com o repositório remoto.
+
+git status - Ele mostra na tela as informações de arquivos ou diretórios modeficados e
+também a branch se está conectada.
+
+git add <Arquivo ou diretório> - Adiciona ou prepara o arquivo para dar o commit.
+
+git commit -m <Nome do arquivo ou diretório> - Aplica o que foi preparado ao 
+executar o git add (Stage).
+
+git log - Comando para mostrar o histórico do GIT.
+
+git push -u origin <branch> - Esse comando envia as alterações para o repositório remoto
+
+gir checkout - troca a branch.
+
+git branch - cria uma nova branch.
+o GitHub é o repositório remoto e o computador é o repositório local.
+As branchs são arquivos dentro do repositório.
