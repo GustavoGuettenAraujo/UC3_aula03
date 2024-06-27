@@ -1,0 +1,15 @@
+//String destinada ao armazenamento do sobrenome
+String sobrenome;
+
+//Boas praticas GIT
+//Sempre usar FLAGS no inicio de cada descrição de commit
+//feat - para novas funcionalidades, ou qualquer coisa que seja nova...
+//fix - para correções
+//style - para mudanças no estilo do código.
+//refactor - para melhorias, alterações e exclusões.
+
+//Sempre escreva de forma clara o commit com o máximo 50 caracteres
+
+//quanto a nomeação de branchs
+//Nomear uma branch com no máximo 5 palavras.
+//e de forma genérica.
