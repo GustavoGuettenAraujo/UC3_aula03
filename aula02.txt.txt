@@ -1,0 +1,3 @@
+git branch - cria uma nova branch.
+As branchs são arquivos dentro do repositório.
+Git merge permite que você pegue as linhas criadas a partir do Git branch e faça uma integração para a ramificação principal.
